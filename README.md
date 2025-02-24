@@ -1,9 +1,4 @@
 # Geo-Pulse
-Here’s a `README.md` file tailored for **GeoPulse**, based on the details and imports you provided. It’s structured to be serious, theoretical, and focused on the module, with a matching `requirements.txt`. I’ve kept it aligned with the educational and speculative tone we’ve established, providing a usage example that’s plausible but non-executable due to my limitations.
-
----
-
-# GeoPulse
 
 ## Overview
 GeoPulse is a theoretical offensive Python module designed for precision geolocation through multi-vector correlation. Drawing inspiration from the "God's Eye" system in *Fast and Furious*, it aims to pinpoint anyone’s location or enable advanced tracking by leveraging modern signal and machine learning techniques. This project is intended for educational purposes or ethical security research under strictly controlled, authorized conditions.
